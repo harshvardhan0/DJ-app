@@ -1,0 +1,36 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+}
+.speed{
+    float: left;
+}
+.volume{
+    float: right;
+}
+.si{
+    width: 200px;
+    border-radius: 100px;
+
+}
+.vi{
+    width: 200px;
+    border-radius: 100px;
+    
+}
+#sb{
+    font-size: 25px;
+    margin: 15px;
+}
+#vb{
+    font-size: 25px;
+    margin: 15px;
+}
+.is{
+    font-size: 15px;
+}
+.pb{
+   width:150px ; 
+   font-size: 30px;
+}
